@@ -514,7 +514,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              FUNKIES merges the charm of whimsical, hand-drawn confections with the power of next-generation technology.
+              Sold out in 10mins!
             </s.TextDescription>
 
 
@@ -526,7 +526,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Each NFT showcases a delightful sweet, rendered in PostEY's inimitable style that captures the true essence of artistic individuality.
+              Congratulations to all minters
             </s.TextDescription>
 
 
@@ -538,8 +538,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Members of our FUNKIES family, will be part of an inclusive community that cherishes the intersection of creativity, technology, and the shared love for these irresistible digital treats,
-              all brought to life through PostEY's one-of-a-kind illustrations.
+              $FUNK details coming soon. Stay tuned
             </s.TextDescription>
 
 
